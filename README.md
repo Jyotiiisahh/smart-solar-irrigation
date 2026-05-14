@@ -1,0 +1,1 @@
+<h2>  A smart irrigation system that monitors environmental conditions and helps automate irrigation using solar-powered technology. The project provides real-time data visualization through an interactive dashboard built with React and a Python backend.</h2>
